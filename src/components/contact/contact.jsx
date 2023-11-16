@@ -15,7 +15,7 @@ const Contact = () => {
           <img src={getImageUrl('gmail.svg')} alt="email" />
           <p>lopesjean81@gmail.com</p>
         </a>
-        <a href="www.linkedin.com/in/jean-carlosdev"
+        <a href="https://linkedin.com/in/jean-carlosdev"
           target='_blank'
           rel="noreferrer">
           <img src={getImageUrl('linkedin.svg')} alt="linkedin" />
